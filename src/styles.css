@@ -1,0 +1,48 @@
+body {
+  color: wheat;
+  margin-left: 50px;
+  border: 1px black;
+}
+
+h1 {
+  text-align: center;
+}
+h2 {
+  position: relative;
+  right: -150px;
+  top: 10px;
+  font-size: 30px;
+}
+h5 {
+  text-align: center;
+}
+p {
+  position: relative;
+  right: -628px;
+  top: -780px;
+}
+
+form {
+  position: relative;
+  bottom: 40px;
+  right: -80px;
+}
+button {
+  position: relative;
+  top: -35px;
+  right: -85px;
+}
+.container {
+  padding-bottom: -10%;
+  border: 1px solid black;
+  background: linear-gradient(blue, 10%, pink);
+  width: 30%;
+}
+.index {
+  position: relative;
+  top: -120px;
+}
+.hour {
+  position: relative;
+  top: -120px;
+}
